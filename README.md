@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Javascript, Java, C++ and Dart**
 
-- 👨‍💻 All of my projects are available at [Have no portofolio yet](Have no portofolio yet)
-
 - 📫 How to reach me **mumtazulagnaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
