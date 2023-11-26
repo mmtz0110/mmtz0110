@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agnaya aka Mumtazz</h1>
-<img align="center" alt="gif" width="70%" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif](https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif"
+<img align="center" alt="gif" width="70%" src="https://www.gifcen.com/wp-content/uploads/2022/06/lofi-gif-7.gif"
 <h3 align="center">Frontend and Backend that is still learning</h3>
 
 
