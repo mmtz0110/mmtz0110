@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agnaya aka Mumtazz</h1>
-<img align="center" alt="banner" width="60%" src="https://i.pinimg.com/564x/22/0f/9d/220f9db21fc1e432b03cab9eae044695.jpg">
+<img align="center" alt="banner" width="100%" src="https://i.pinimg.com/564x/22/0f/9d/220f9db21fc1e432b03cab9eae044695.jpg">
 <h3 align="center">Frontend and Backend that is still learning</h3>
 
 
