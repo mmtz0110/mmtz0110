@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Agnaya aka Mumtazz</h1>
+<img align="center" alt="gif" width="100%" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif"
 <h3 align="center">Frontend and Backend that is still learning</h3>
 
+
 - 📝 A student from [SMK Informatika CBI](https://smkinformatikacbi.sch.id/)
-
 - 🌱 I’m currently learning **Javascript, Java, C++ and Dart**
-
 - 📫 How to reach me **mumtazulagnaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
