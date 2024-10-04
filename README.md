@@ -4,7 +4,7 @@
 
 
 - 📝 A student from [SMK Informatika CBI](https://smkinformatikacbi.sch.id/)
-- 🌱 I’m currently learning **Javascript, Java, C++ and Dart**
+- 🌱 I’m currently learning **Java, C++,Python and C#**
 - 📫 How to reach me **mumtazulagnaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
