@@ -3,7 +3,7 @@
 <h3 align="center">Frontend and Backend that is still learning</h3>
 
 
-- 📝 A student from [SMK Informatika CBI](https://smkinformatikacbi.sch.id/)
+- 📝 A student from [Nusa Putra University](https://nusaputra.ac.id/)
 - 🌱 I’m currently learning **Java, C++,Python and C#**
 - 📫 How to reach me **mumtazulagnaya@gmail.com**
 
