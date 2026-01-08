@@ -1,5 +1,5 @@
 # About Me:
-    📝 A student from Nusa Putra University<br>    💻 Vibe coder sheett
+    📝 A student from Nusa Putra University <br>    💻 Vibe coder sheett
 
 
 ## Socials:
