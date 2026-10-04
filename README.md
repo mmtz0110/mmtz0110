@@ -23,7 +23,7 @@ Saya masih mempelajari beberapa bidang sebelum memilih spesialisasi. Untuk sekar
 ## Teknologi dan Bidang yang Saya Eksplorasi
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,php,html,css,react,nodejs,expo,flutter,androidstudio,linux,bash,powershell,git,github,mysql,postgres,figma,arduino,docker" alt="Python, JavaScript, TypeScript, C++, PHP, HTML, CSS, React, Node.js, Flutter, Android Studio, Linux, Bash, PowerShell, Git, GitHub, MySQL, PostgreSQL, Figma, Arduino, dan Docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,php,html,css,react,nodejs,flutter,androidstudio,linux,bash,powershell,git,github,mysql,postgres,figma,arduino,docker" alt="Python, JavaScript, TypeScript, C++, PHP, HTML, CSS, React, Node.js, Flutter, Android Studio, Linux, Bash, PowerShell, Git, GitHub, MySQL, PostgreSQL, Figma, Arduino, dan Docker" />
 </p>
 
 Hal yang sedang saya pelajari dan praktikkan juga mencakup **REST API, WebSocket, komunikasi antarperangkat, EAS Build, Flutter Web, Geographic Information System (GIS), data spasial, manajemen proyek TI, konfigurasi Hyprland, serta pemrograman mikrokontroler dengan C++**.
