@@ -1,24 +1,87 @@
-# About Me:
-    📝 A student from Nusa Putra University <br>    💻 Vibe coder sheett
+# Halo, saya Agnaya Mumtazul Wafir 👋
 
+**Mahasiswa Teknik Informatika · Developer · Problem Solver**
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmtz0110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mumtazulagnaya@gmail.com) 
+Saya mahasiswa Teknik Informatika di Universitas Nusa Putra. Saya senang menggabungkan software, sistem, hardware, dan kreativitas dalam sebuah proyek.
 
-# Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmtz0110&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mmtz0110&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmtz0110&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Biasanya saya belajar dengan membangun sesuatu, menemukan error, mencari penyebabnya, lalu mencoba lagi. Saya tertarik pada cara teknologi bekerja, terutama saat aplikasi perlu berkomunikasi dengan perangkat atau sistem lain.
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+## 👨‍💻 Tentang saya
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mmtz0110&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+- 🎓 Mahasiswa Teknik Informatika, Universitas Nusa Putra
+- 💻 Tertarik pada software development dan system integration
+- 🔌 Mengeksplorasi Linux, networking, hardware, IoT, dan komunikasi antarperangkat
+- 🎨 Berpengalaman dalam UI/UX, desain visual, editing, dan dokumentasi
+- 🦁 Aktif di Himpunan Mahasiswa Teknik Informatika dan pernah menjadi koordinator Divisi Akademik Minat dan Bakat
+- 🔍 Lebih suka mencari akar masalah daripada berhenti di pesan error
 
----
-[![](https://visitcount.itsvg.in/api?id=mmtz0110&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧰 Teknologi dan bidang yang saya eksplorasi
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Bahasa dan pengembangan**
+
+`Python` · `JavaScript` · `TypeScript` · `C/C++` · `SQL` · `HTML` · `CSS` · `Node.js` · `REST API` · `WebSocket` · `Android` · `Desktop apps`
+
+**Linux dan sistem**
+
+Linux desktop · CachyOS · Arch Linux · Debian/Ubuntu · Fish Shell · SSH · ADB · process management · networking dasar · system dan hardware troubleshooting
+
+Saya menggunakan Linux untuk memahami package management, environment, process, service, dan networking dari dekat.
+
+**Hardware dan embedded systems**
+
+ESP32 · DHT11 · ultrasonic, flame, dan raindrop sensor · LCD · OLED · GPIO · buzzer · LED · serial communication · ADB · PC building · RAM compatibility
+
+Saya senang menelusuri masalah hardware dengan membandingkan spesifikasi, konfigurasi, dan hasil pengujian.
+
+**Bidang lain**
+
+- 🗺️ GIS, data spasial, pemetaan, dan visualisasi geografis
+- 🗄️ Database relasional, SQL, desain database, dan data modeling
+- 🎨 UI/UX, graphic design, Figma, presentasi, editing, dan dokumentasi
+
+## 🚀 Proyek dan eksperimen
+
+### Stream Companion
+
+Sistem yang menghubungkan Android dan komputer Windows untuk kebutuhan live streaming. Saya menggunakan ADB dan WebSocket agar kedua perangkat dapat berkomunikasi.
+
+### Agent Nala
+
+Eksperimen personal untuk membangun AI assistant lokal. Project ini menggunakan Python, Ollama, Qwen2.5-Coder, CLI, dan Linux.
+
+### ESP32 Smart Monitor
+
+Project IoT untuk membaca sensor dan menampilkan kondisi lingkungan. Komponen yang pernah saya gunakan meliputi ESP32, DHT11, ultrasonic, flame dan raindrop sensor, LCD, OLED, LED, buzzer, serta push button.
+
+## 🏛️ Pengalaman organisasi
+
+Di Himpunan Mahasiswa Teknik Informatika, saya pernah membantu mengembangkan program kerja, mengoordinasikan divisi, menyusun konsep kegiatan, mengurus dokumentasi dan media kreatif, serta menjalankan kegiatan mahasiswa.
+
+Sebagai koordinator Divisi Akademik Minat dan Bakat, saya belajar membagi tugas, berkomunikasi, dan mengambil keputusan bersama tim. Pengalaman ini mengingatkan saya bahwa project yang baik membutuhkan lebih dari kemampuan teknis.
+
+## 🧠 Cara saya bekerja
+
+Saya biasanya memulai dengan memahami masalah dan memecahnya menjadi bagian kecil. Setelah itu saya mencari informasi, membuat percobaan atau prototype, menguji hasil, lalu menelusuri error sampai menemukan bagian yang perlu diperbaiki.
+
+Saat aplikasi bermasalah, saya melihat pesan error sekaligus perubahan terakhir, konfigurasi, dependency, environment, port, proses, dan kemungkinan pengaruh hardware. Saya ingin tahu **kenapa** masalah terjadi, bukan hanya cara melewatinya.
+
+Saya cukup introvert saat berada di lingkungan baru. Namun, ketika sudah terlibat dalam pekerjaan atau project, saya bisa aktif dan nyaman bekerja bersama tim yang punya tujuan dan pembagian peran yang jelas.
+
+## 📚 Yang sedang saya pelajari
+
+Software architecture · system integration · Linux administration · networking · Android dan backend development · AI applications · IoT · UI/UX · GIS · hardware troubleshooting · distributed systems
+
+## 🎯 Arah yang ingin saya tuju
+
+Saya ingin terus memperkuat fundamental dan membangun project lintas bidang. Saya tertarik pada pekerjaan yang mempertemukan software, sistem, hardware, networking, dan kreativitas. Untuk sekarang, saya masih ingin mengeksplorasi beberapa bidang sebelum menentukan spesialisasi.
+
+> “Understand it. Build it. Break it. Fix it. Improve it.”
+>
+> Kalau error? Ya debug lagi. 🦁
+
+## 📫 Hubungi saya
+
+Saya terbuka untuk berdiskusi tentang software development, Linux, hardware, IoT, AI, system integration, atau project yang sedang kamu kerjakan.
+
+**Agnaya Mumtazul Wafir**  
+Mahasiswa Teknik Informatika · Universitas Nusa Putra · Indonesia
