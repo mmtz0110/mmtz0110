@@ -2,7 +2,7 @@
 
 # 👋 Halo, saya Agnaya Mumtazul Wafir
 
-### Mahasiswa Teknik Informatika · Developer · Problem Solver
+### Mahasiswa Teknik Informatika · Developer · Problem Solver · Tech Enthusiast
 
 🎓 Universitas Nusa Putra &nbsp;·&nbsp; 📍 Indonesia &nbsp;·&nbsp;
 
@@ -34,13 +34,6 @@ Saya suka membangun sesuatu, mencari tahu kenapa ia bekerja atau gagal, lalu mem
 
 `SQL` · `REST API` · `WebSocket` · `Android` · `Desktop Apps`
 
-### Linux, Tools, dan Desain
-
-<div>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,android,arduino,figma" alt="Linux, Git, GitHub, Android, Arduino, dan Figma" />
-</div>
-
-CachyOS · Arch Linux · Debian/Ubuntu · Fish Shell · SSH · ADB · Networking · System Troubleshooting · UI/UX · Graphic Design
 
 ### Hardware & Embedded Systems
 
@@ -59,12 +52,6 @@ Saya menelusuri masalah hardware dengan membandingkan spesifikasi, konfigurasi, 
 Sistem yang dirancang untuk menghubungkan aplikasi Android dengan komputer Windows untuk kebutuhan live streaming.
 
 Teknologi dan konsep yang dieksplorasi meliputi ADB, WebSocket, Node.js, komunikasi antarperangkat, serta integrasi audio.
-
-### 🦁 Agent Nala
-
-Eksperimen personal untuk membangun AI assistant lokal menggunakan Python, Ollama, Qwen2.5-Coder, CLI, dan Linux.
-
-Project ini menjadi sarana untuk mempelajari pengembangan AI assistant dan pemanfaatan model bahasa yang berjalan secara lokal.
 
 ### 🌡️ ESP32 Smart Monitor
 
