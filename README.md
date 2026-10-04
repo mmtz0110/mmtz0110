@@ -45,38 +45,6 @@ Saya menelusuri masalah hardware dengan membandingkan spesifikasi, konfigurasi, 
 
 🗺️ GIS dan Data Spasial &nbsp;·&nbsp; 🗄️ Database Relasional dan Data Modeling &nbsp;·&nbsp; 📋 Manajemen Proyek TI &nbsp;·&nbsp; 🎨 Figma dan Visual Design
 
-## 🚀 Proyek Pilihan
-
-### 📱 Stream Companion
-
-Sistem yang dirancang untuk menghubungkan aplikasi Android dengan komputer Windows untuk kebutuhan live streaming.
-
-Teknologi dan konsep yang dieksplorasi meliputi ADB, WebSocket, Node.js, komunikasi antarperangkat, serta integrasi audio.
-
-### 🌡️ ESP32 Smart Monitor
-
-Project IoT untuk membaca sensor dan menampilkan kondisi lingkungan.
-
-Menggunakan ESP32, DHT11, ultrasonic sensor, flame sensor, raindrop sensor, LCD, OLED, LED, buzzer, dan push button.
-
-### 🎲 Group Randomizer
-
-🔗 [Lihat repositori di GitHub](https://github.com/mmtz0110/group-randomizer)
-
-Project yang berfokus pada pengacakan kelompok. Project ini menjadi bagian dari eksplorasi saya dalam membangun aplikasi untuk membantu proses pembagian kelompok secara praktis.
-
-### ⌨️ KeyboardWarrior
-
-🔗 [Lihat repositori di GitHub](https://github.com/mmtz0110/KeyboardWarrior)
-
-Project personal yang saya kembangkan sebagai bagian dari eksplorasi software development. Repositori ini menjadi tempat untuk menunjukkan proses pengembangan, eksperimen, dan implementasi ide ke dalam sebuah project.
-
-### ☕ Cafmate
-
-🔗 [Lihat repositori di GitHub](https://github.com/mmtz0110/cafmate)
-
-Project yang saya kembangkan sebagai bagian dari perjalanan belajar dan membangun solusi berbasis teknologi. Project ini melengkapi pengalaman saya dalam mengembangkan aplikasi di luar eksperimen sistem dan hardware.
-
 ## 🏢 Pengalaman Profesional & Kewirausahaan
 
 ### Leafiq.id
