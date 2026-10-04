@@ -171,8 +171,6 @@ Saya masih mengeksplorasi beberapa bidang sebelum menentukan spesialisasi. Untuk
 
 > **Understand it. Build it. Break it. Fix it. Improve it.**
 
-Kalau error? Ya debug lagi. 🦁
-
 ## 📫 Mari Terhubung
 
 Terbuka untuk berdiskusi tentang software development, Linux, hardware, IoT, AI, GIS, system integration, kewirausahaan mahasiswa, maupun project teknologi lainnya.
