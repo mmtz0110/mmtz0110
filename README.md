@@ -1,87 +1,105 @@
-# Halo, saya Agnaya Mumtazul Wafir 👋
+<div align="center">
 
-**Mahasiswa Teknik Informatika · Developer · Problem Solver**
+# 👋 Halo, saya Agnaya Mumtazul Wafir
 
-Saya mahasiswa Teknik Informatika di Universitas Nusa Putra. Saya senang menggabungkan software, sistem, hardware, dan kreativitas dalam sebuah proyek.
+### Mahasiswa Teknik Informatika · Developer · Problem Solver
 
-Biasanya saya belajar dengan membangun sesuatu, menemukan error, mencari penyebabnya, lalu mencoba lagi. Saya tertarik pada cara teknologi bekerja, terutama saat aplikasi perlu berkomunikasi dengan perangkat atau sistem lain.
+🎓 Universitas Nusa Putra &nbsp;·&nbsp; 📍 Indonesia &nbsp;·&nbsp; 🦁 HMTI
 
-## 👨‍💻 Tentang saya
+Saya suka membangun sesuatu, mencari tahu kenapa ia bekerja atau gagal, lalu memperbaikinya. Minat saya ada di persimpangan software, sistem, hardware, dan kreativitas.
 
-- 🎓 Mahasiswa Teknik Informatika, Universitas Nusa Putra
+</div>
+
+---
+
+## 🧑‍💻 Tentang saya
+
 - 💻 Tertarik pada software development dan system integration
-- 🔌 Mengeksplorasi Linux, networking, hardware, IoT, dan komunikasi antarperangkat
+- 🐧 Mengeksplorasi Linux, networking, hardware, dan komunikasi antarperangkat
+- 🔌 Belajar IoT lewat ESP32 dan sensor
 - 🎨 Berpengalaman dalam UI/UX, desain visual, editing, dan dokumentasi
-- 🦁 Aktif di Himpunan Mahasiswa Teknik Informatika dan pernah menjadi koordinator Divisi Akademik Minat dan Bakat
+- 🦁 Pernah menjadi koordinator Divisi Akademik Minat dan Bakat di Himpunan Mahasiswa Teknik Informatika
 - 🔍 Lebih suka mencari akar masalah daripada berhenti di pesan error
 
-## 🧰 Teknologi dan bidang yang saya eksplorasi
+## ⚙️ Tech stack & bidang yang saya eksplorasi
 
-**Bahasa dan pengembangan**
+### Bahasa dan pengembangan
 
-`Python` · `JavaScript` · `TypeScript` · `C/C++` · `SQL` · `HTML` · `CSS` · `Node.js` · `REST API` · `WebSocket` · `Android` · `Desktop apps`
+<div>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css,nodejs,react" alt="Python, JavaScript, TypeScript, C++, HTML, CSS, Node.js, dan React" />
+</div>
 
-**Linux dan sistem**
+`SQL` · `REST API` · `WebSocket` · `Android` · `Desktop apps`
 
-Linux desktop · CachyOS · Arch Linux · Debian/Ubuntu · Fish Shell · SSH · ADB · process management · networking dasar · system dan hardware troubleshooting
+### Linux, tools, dan desain
 
-Saya menggunakan Linux untuk memahami package management, environment, process, service, dan networking dari dekat.
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,android,arduino,figma" alt="Linux, Git, GitHub, Android, Arduino, dan Figma" />
+</div>
 
-**Hardware dan embedded systems**
+CachyOS · Arch Linux · Debian/Ubuntu · Fish Shell · SSH · ADB · networking · system troubleshooting · UI/UX · graphic design
 
-ESP32 · DHT11 · ultrasonic, flame, dan raindrop sensor · LCD · OLED · GPIO · buzzer · LED · serial communication · ADB · PC building · RAM compatibility
+### Hardware & embedded systems
 
-Saya senang menelusuri masalah hardware dengan membandingkan spesifikasi, konfigurasi, dan hasil pengujian.
+ESP32 · DHT11 · ultrasonic sensor · flame sensor · raindrop sensor · LCD · OLED · GPIO · buzzer · LED · serial communication · PC building · RAM compatibility
 
-**Bidang lain**
+Saya menelusuri masalah hardware dengan membandingkan spesifikasi, konfigurasi, dan hasil pengujian.
 
-- 🗺️ GIS, data spasial, pemetaan, dan visualisasi geografis
-- 🗄️ Database relasional, SQL, desain database, dan data modeling
-- 🎨 UI/UX, graphic design, Figma, presentasi, editing, dan dokumentasi
+### Bidang lain
 
-## 🚀 Proyek dan eksperimen
+🗺️ GIS dan data spasial &nbsp;·&nbsp; 🗄️ Database relasional dan data modeling &nbsp;·&nbsp; 🎨 Figma dan visual design
 
-### Stream Companion
+## 🚀 Proyek pilihan
 
-Sistem yang menghubungkan Android dan komputer Windows untuk kebutuhan live streaming. Saya menggunakan ADB dan WebSocket agar kedua perangkat dapat berkomunikasi.
+### 📱 Stream Companion
 
-### Agent Nala
+Sistem yang menghubungkan Android dengan komputer Windows untuk kebutuhan live streaming. ADB dan WebSocket digunakan agar kedua perangkat dapat berkomunikasi.
 
-Eksperimen personal untuk membangun AI assistant lokal. Project ini menggunakan Python, Ollama, Qwen2.5-Coder, CLI, dan Linux.
+### 🦁 Agent Nala
 
-### ESP32 Smart Monitor
+Eksperimen personal untuk membangun AI assistant lokal menggunakan Python, Ollama, Qwen2.5-Coder, CLI, dan Linux.
 
-Project IoT untuk membaca sensor dan menampilkan kondisi lingkungan. Komponen yang pernah saya gunakan meliputi ESP32, DHT11, ultrasonic, flame dan raindrop sensor, LCD, OLED, LED, buzzer, serta push button.
+### 🌡️ ESP32 Smart Monitor
+
+Project IoT untuk membaca sensor dan menampilkan kondisi lingkungan. Menggunakan ESP32, DHT11, ultrasonic, flame dan raindrop sensor, LCD, OLED, LED, buzzer, serta push button.
 
 ## 🏛️ Pengalaman organisasi
 
-Di Himpunan Mahasiswa Teknik Informatika, saya pernah membantu mengembangkan program kerja, mengoordinasikan divisi, menyusun konsep kegiatan, mengurus dokumentasi dan media kreatif, serta menjalankan kegiatan mahasiswa.
+Di Himpunan Mahasiswa Teknik Informatika, saya ikut mengembangkan program kerja, mengoordinasikan divisi, menyusun konsep kegiatan, mengurus dokumentasi dan media kreatif, serta menjalankan kegiatan mahasiswa.
 
-Sebagai koordinator Divisi Akademik Minat dan Bakat, saya belajar membagi tugas, berkomunikasi, dan mengambil keputusan bersama tim. Pengalaman ini mengingatkan saya bahwa project yang baik membutuhkan lebih dari kemampuan teknis.
+Sebagai koordinator Divisi Akademik Minat dan Bakat, saya belajar membagi tugas, berkomunikasi, dan mengambil keputusan bersama tim. Pengalaman itu juga mengajarkan bahwa project yang baik membutuhkan koordinasi, bukan hanya kemampuan teknis.
 
 ## 🧠 Cara saya bekerja
 
-Saya biasanya memulai dengan memahami masalah dan memecahnya menjadi bagian kecil. Setelah itu saya mencari informasi, membuat percobaan atau prototype, menguji hasil, lalu menelusuri error sampai menemukan bagian yang perlu diperbaiki.
+Saya mulai dengan memahami masalah, memecahnya menjadi bagian kecil, lalu membuat percobaan atau prototype. Setelah diuji, saya telusuri error dan perbaiki bagian yang bermasalah.
 
-Saat aplikasi bermasalah, saya melihat pesan error sekaligus perubahan terakhir, konfigurasi, dependency, environment, port, proses, dan kemungkinan pengaruh hardware. Saya ingin tahu **kenapa** masalah terjadi, bukan hanya cara melewatinya.
+Saat aplikasi gagal, saya memeriksa perubahan terakhir, konfigurasi, dependency, environment, port, proses, dan kemungkinan pengaruh hardware. Saya ingin tahu **kenapa** masalah terjadi, bukan cuma cara melewatinya.
 
-Saya cukup introvert saat berada di lingkungan baru. Namun, ketika sudah terlibat dalam pekerjaan atau project, saya bisa aktif dan nyaman bekerja bersama tim yang punya tujuan dan pembagian peran yang jelas.
+Saya cukup introvert di lingkungan baru. Namun, ketika sudah masuk ke pekerjaan atau project, saya bisa aktif dan nyaman bekerja bersama tim yang punya tujuan dan pembagian peran yang jelas.
 
-## 📚 Yang sedang saya pelajari
+## 🌱 Sedang saya pelajari
 
 Software architecture · system integration · Linux administration · networking · Android dan backend development · AI applications · IoT · UI/UX · GIS · hardware troubleshooting · distributed systems
 
 ## 🎯 Arah yang ingin saya tuju
 
-Saya ingin terus memperkuat fundamental dan membangun project lintas bidang. Saya tertarik pada pekerjaan yang mempertemukan software, sistem, hardware, networking, dan kreativitas. Untuk sekarang, saya masih ingin mengeksplorasi beberapa bidang sebelum menentukan spesialisasi.
+Saya ingin terus memperkuat fundamental dan membangun project lintas bidang. Saya tertarik pada pekerjaan yang mempertemukan software, sistem, hardware, networking, dan kreativitas. Saya masih mengeksplorasi beberapa bidang sebelum menentukan spesialisasi.
 
-> “Understand it. Build it. Break it. Fix it. Improve it.”
+<div align="center">
+
+> **Understand it. Build it. Break it. Fix it. Improve it.**
 >
 > Kalau error? Ya debug lagi. 🦁
 
-## 📫 Hubungi saya
+</div>
+
+## 📫 Mari terhubung
 
 Saya terbuka untuk berdiskusi tentang software development, Linux, hardware, IoT, AI, system integration, atau project yang sedang kamu kerjakan.
 
+<div align="center">
+
 **Agnaya Mumtazul Wafir**  
 Mahasiswa Teknik Informatika · Universitas Nusa Putra · Indonesia
+
+</div>
